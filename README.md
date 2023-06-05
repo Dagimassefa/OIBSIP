@@ -20,6 +20,6 @@ The landing page features a variety of elements designed to showcase the restaur
 
 If you have any suggestions for improving the landing page, please feel free to submit a pull request.
 
-## Contact Us
+## Contact 
 
 If you have any questions use the contact links on the footer of the website!
